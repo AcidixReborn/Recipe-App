@@ -25,3 +25,4 @@ yarn-error.log*
 # Windows reserved device name file (accidentally created)
 nul
 ./nul
+./.claude 

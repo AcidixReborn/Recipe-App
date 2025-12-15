@@ -1,0 +1,56 @@
+.home-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.hero {
+  text-align: center;
+  padding: 2rem 1rem 3rem;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin: 0 0 0.75rem 0;
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #7f8c8d;
+  margin: 0;
+}
+
+.search-section {
+  margin-bottom: 2rem;
+}
+
+.recipes-section {
+  padding-top: 1rem;
+}
+
+.recipes-header {
+  margin-bottom: 1.5rem;
+}
+
+.recipes-header h3 {
+  font-size: 1.25rem;
+  color: #2c3e50;
+  margin: 0;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid #ecf0f1;
+}
+
+@media (max-width: 768px) {
+  .home-page {
+    padding: 1rem;
+  }
+
+  .hero h2 {
+    font-size: 1.75rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+}

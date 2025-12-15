@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcopy:*)",
+      "Bash(robocopy:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(npm install:*)",
+      "Bash(del App.test.js setupTests.js reportWebVitals.js logo.svg)",
+      "Bash(npm start)"
+    ]
+  }
+}
